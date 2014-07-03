@@ -33,6 +33,5 @@ C:\Users\Jeza\Desktop\MaestroDetalleJezabel\MvcApplication\bin\System.Web.Razor.
 C:\Users\Jeza\Desktop\MaestroDetalleJezabel\MvcApplication\bin\System.Web.WebPages.xml
 C:\Users\Jeza\Desktop\MaestroDetalleJezabel\MvcApplication\bin\System.Web.WebPages.Deployment.xml
 C:\Users\Jeza\Desktop\MaestroDetalleJezabel\MvcApplication\bin\System.Web.WebPages.Razor.xml
-C:\Users\Jeza\Desktop\MaestroDetalleJezabel\MvcApplication\obj\Debug\MvcApplication.csprojResolveAssemblyReference.cache
 C:\Users\Jeza\Desktop\MaestroDetalleJezabel\MvcApplication\obj\Debug\MvcApplication.dll
 C:\Users\Jeza\Desktop\MaestroDetalleJezabel\MvcApplication\obj\Debug\MvcApplication.pdb
